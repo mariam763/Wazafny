@@ -1,0 +1,1322 @@
+{
+  "Software Engineer": [
+    "Developed and maintained web and backend applications using JavaScript, Python, and Node.js.",
+    "Implemented scalable APIs and services following best practices in software design.",
+    "Reviewed code, wrote unit tests, and participated in Agile sprint planning."
+  ],
+  "Project Manager": [
+    "Defined project scope, goals, and deliverables in collaboration with stakeholders.",
+    "Managed project timelines, budgets, and resources to ensure on-time delivery.",
+    "Facilitated daily stand-ups, sprint reviews, and risk assessments in Agile environments."
+  ],
+  "Customer Service Representative": [
+    "Provided prompt and professional support to customers via phone, chat, and email.",
+    "Handled complaints and escalations while maintaining a positive customer experience.",
+    "Logged interactions and follow-ups using CRM systems such as Salesforce or Zendesk."
+  ],
+  "Data Analyst": [
+    "Extracted and analyzed large datasets using SQL, Python, and Excel to drive business insights.",
+    "Built dashboards and visualizations with Tableau and Power BI for reporting.",
+    "Collaborated with business units to translate data findings into actionable strategies."
+  ],
+  "Graphic Designer": [
+    "Designed digital assets including web banners, social media posts, and email templates.",
+    "Created print materials such as brochures, flyers, and posters using Adobe InDesign and Illustrator.",
+    "Worked with creative teams to maintain brand consistency across all media."
+  ],
+  "Marketing Manager": [
+    "Developed and executed marketing campaigns across digital and traditional channels.",
+    "Analyzed campaign performance metrics and optimized strategies to improve ROI.",
+    "Led a team of marketing specialists and coordinated efforts with sales and product teams."
+  ],
+  "Business Analyst": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Sales Representative": [
+    "Designed and implemented system improvements.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Accountant": [
+    "Prepared and reviewed financial statements in compliance with GAAP standards.",
+    "Managed accounts payable/receivable, payroll processing, and tax filings.",
+    "Utilized accounting software like QuickBooks and SAP to ensure financial accuracy."
+  ],
+  "Web Developer": [
+    "Built responsive websites using HTML, CSS, JavaScript, and modern frameworks like React.",
+    "Integrated third-party APIs and performed cross-browser compatibility testing.",
+    "Maintained website performance and implemented SEO best practices."
+  ],
+  "HR Specialist": [
+    "Managed recruitment processes including job postings, interviews, and onboarding.",
+    "Handled employee relations, benefits administration, and policy compliance.",
+    "Maintained HR records and ensured adherence to labor laws and company policies."
+  ],
+  "Product Manager": [
+    "Collaborated with team members to complete projects.",
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "UX Designer": [
+    "Conducted user research and usability testing to inform design decisions.",
+    "Created wireframes, prototypes, and user flows using tools like Figma and Adobe XD.",
+    "Collaborated with developers and stakeholders to ensure a seamless user experience."
+  ],
+  "SEO Specialist": [
+    "Analyzed data to inform strategic decisions.",
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Operations Manager": [
+    "Provided support and training to new employees.",
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements."
+  ],
+  "Nurse": [
+    "Collaborated with team members to complete projects.",
+    "Analyzed data to inform strategic decisions.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Financial Analyst": [
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "Civil Engineer": [
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations.",
+    "Provided support and training to new employees."
+  ],
+  "Teacher": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Lawyer": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Psychologist": [
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Content Writer": [
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Research Scientist": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Electrical Engineer": [
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Construction Manager": [
+    "Monitored performance and suggested optimizations.",
+    "Assisted in budgeting and cost analysis.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Mechanical Engineer": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Pharmacist": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Collaborated with team members to complete projects.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "IT Support Specialist": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Provided support and training to new employees."
+  ],
+  "Social Media Manager": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Public Relations Specialist": [
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Recruiter": [
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Database Administrator": [
+    "Assisted in budgeting and cost analysis.",
+    "Collaborated with team members to complete projects.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Architect": [
+    "Collaborated with team members to complete projects.",
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Event Planner": [
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Quality Assurance Specialist": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings."
+  ],
+  "Network Engineer": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Project Coordinator": [
+    "Analyzed data to inform strategic decisions.",
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Web Designer": [
+    "Collaborated with team members to complete projects.",
+    "Analyzed data to inform strategic decisions.",
+    "Provided support and training to new employees."
+  ],
+  "Business Development Manager": [
+    "Communicated with clients to understand requirements.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "Product Designer": [
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Customer Success Manager": [
+    "Communicated with clients to understand requirements.",
+    "Analyzed data to inform strategic decisions.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Data Scientist": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Marketing Coordinator": [
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees."
+  ],
+  "Operations Analyst": [
+    "Conducted research and reported findings.",
+    "Communicated with clients to understand requirements.",
+    "Provided support and training to new employees."
+  ],
+  "Financial Planner": [
+    "Assisted in budgeting and cost analysis.",
+    "Provided support and training to new employees.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Healthcare Administrator": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements."
+  ],
+  "Travel Agent": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Conducted research and reported findings."
+  ],
+  "Real Estate Agent": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Sales Manager": [
+    "Collaborated with team members to complete projects.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Journalist": [
+    "Collaborated with team members to complete projects.",
+    "Analyzed data to inform strategic decisions.",
+    "Conducted research and reported findings."
+  ],
+  "Audio Engineer": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings."
+  ],
+  "Video Editor": [
+    "Monitored performance and suggested optimizations.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Chef": [
+    "Monitored performance and suggested optimizations.",
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Teacher Assistant": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Compliance Officer": [
+    "Analyzed data to inform strategic decisions.",
+    "Collaborated with team members to complete projects.",
+    "Designed and implemented system improvements."
+  ],
+  "Security Analyst": [
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements."
+  ],
+  "Insurance Agent": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings."
+  ],
+  "Retail Manager": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Fitness Trainer": [
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Travel Consultant": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Legal Assistant": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Analyzed data to inform strategic decisions.",
+    "Conducted research and reported findings."
+  ],
+  "Bartender": [
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings."
+  ],
+  "Fashion Designer": [
+    "Provided support and training to new employees.",
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Digital Marketing Specialist": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Brand Manager": [
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Customer Support Specialist": [
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements."
+  ],
+  "Interior Designer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Health Coach": [
+    "Analyzed data to inform strategic decisions.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Designed and implemented system improvements."
+  ],
+  "Nursing Assistant": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations.",
+    "Conducted research and reported findings."
+  ],
+  "Social Worker": [
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations.",
+    "Provided support and training to new employees."
+  ],
+  "Personal Trainer": [
+    "Analyzed data to inform strategic decisions.",
+    "Communicated with clients to understand requirements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Paralegal": [
+    "Monitored performance and suggested optimizations.",
+    "Assisted in budgeting and cost analysis.",
+    "Provided support and training to new employees."
+  ],
+  "Research Assistant": [
+    "Collaborated with team members to complete projects.",
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Nuclear Engineer": [
+    "Analyzed data to inform strategic decisions.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Biomedical Engineer": [
+    "Designed and implemented system improvements.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Content Strategist": [
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Construction Worker": [
+    "Communicated with clients to understand requirements.",
+    "Analyzed data to inform strategic decisions.",
+    "Provided support and training to new employees."
+  ],
+  "Video Game Designer": [
+    "Conducted research and reported findings.",
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "IT Consultant": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "App Developer": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Webmaster": [
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Music Producer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Logistics Coordinator": [
+    "Conducted research and reported findings.",
+    "Collaborated with team members to complete projects.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Truck Driver": [
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Flight Attendant": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings."
+  ],
+  "Surveyor": [
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Executive Assistant": [
+    "Monitored performance and suggested optimizations.",
+    "Collaborated with team members to complete projects.",
+    "Provided support and training to new employees."
+  ],
+  "Customer Support Manager": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "IT Manager": [
+    "Conducted research and reported findings.",
+    "Analyzed data to inform strategic decisions.",
+    "Designed and implemented system improvements."
+  ],
+  "Public Health Specialist": [
+    "Monitored performance and suggested optimizations.",
+    "Assisted in budgeting and cost analysis.",
+    "Provided support and training to new employees."
+  ],
+  "Legal Consultant": [
+    "Communicated with clients to understand requirements.",
+    "Provided support and training to new employees.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Supply Chain Manager": [
+    "Provided support and training to new employees.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Construction Foreman": [
+    "Provided support and training to new employees.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Clinical Research Coordinator": [
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Corporate Trainer": [
+    "Provided support and training to new employees.",
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Healthcare Provider": [
+    "Provided support and training to new employees.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements."
+  ],
+  "SEO Manager": [
+    "Assisted in budgeting and cost analysis.",
+    "Analyzed data to inform strategic decisions.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "E-commerce Manager": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings."
+  ],
+  "Health and Safety Officer": [
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Product Marketing Manager": [
+    "Assisted in budgeting and cost analysis.",
+    "Collaborated with team members to complete projects.",
+    "Provided support and training to new employees."
+  ],
+  "Brand Strategist": [
+    "Analyzed data to inform strategic decisions.",
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Account Executive": [
+    "Monitored performance and suggested optimizations.",
+    "Provided support and training to new employees.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Compliance Specialist": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements."
+  ],
+  "Financial Controller": [
+    "Provided support and training to new employees.",
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings."
+  ],
+  "Data Architect": [
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements."
+  ],
+  "Procurement Specialist": [
+    "Conducted research and reported findings.",
+    "Designed and implemented system improvements.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Art Director": [
+    "Conducted research and reported findings.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Safety Manager": [
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Operations Director": [
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements.",
+    "Designed and implemented system improvements."
+  ],
+  "Technology Consultant": [
+    "Provided support and training to new employees.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Customer Retention Specialist": [
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Logistics Manager": [
+    "Designed and implemented system improvements.",
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings."
+  ],
+  "Payroll Administrator": [
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Call Center Representative": [
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Network Administrator": [
+    "Designed and implemented system improvements.",
+    "Communicated with clients to understand requirements.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Community Manager": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "Art Curator": [
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Instructional Designer": [
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Epidemiologist": [
+    "Analyzed data to inform strategic decisions.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "Political Analyst": [
+    "Designed and implemented system improvements.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "R&D Engineer": [
+    "Conducted research and reported findings.",
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Packaging Engineer": [
+    "Collaborated with team members to complete projects.",
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Marketing Analyst": [
+    "Provided support and training to new employees.",
+    "Collaborated with team members to complete projects.",
+    "Designed and implemented system improvements."
+  ],
+  "Content Developer": [
+    "Designed and implemented system improvements.",
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Systems Engineer": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "IT Project Manager": [
+    "Conducted research and reported findings.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Creative Director": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Operations Supervisor": [
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Customer Engagement Manager": [
+    "Analyzed data to inform strategic decisions.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Government Relations Specialist": [
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Tax Specialist": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Communicated with clients to understand requirements.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Business Intelligence Analyst": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings."
+  ],
+  "Account Manager": [
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Clinical Psychologist": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Conducted research and reported findings."
+  ],
+  "Non-profit Director": [
+    "Conducted research and reported findings.",
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Software Tester": [
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Talent Acquisition Specialist": [
+    "Monitored performance and suggested optimizations.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Public Relations Director": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Provided support and training to new employees."
+  ],
+  "Retail Sales Associate": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Database Engineer": [
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Business Systems Analyst": [
+    "Conducted research and reported findings.",
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Contract Manager": [
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements.",
+    "Provided support and training to new employees."
+  ],
+  "Tax Advisor": [
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Store Manager": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Conducted research and reported findings."
+  ],
+  "Biostatistician": [
+    "Collaborated with team members to complete projects.",
+    "Monitored performance and suggested optimizations.",
+    "Conducted research and reported findings."
+  ],
+  "Automation Engineer": [
+    "Analyzed data to inform strategic decisions.",
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Graphic Artist": [
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Digital Product Designer": [
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees."
+  ],
+  "Cloud Solutions Architect": [
+    "Collaborated with team members to complete projects.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "Compliance Analyst": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Data Entry Clerk": [
+    "Analyzed data to inform strategic decisions.",
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Public Policy Analyst": [
+    "Communicated with clients to understand requirements.",
+    "Analyzed data to inform strategic decisions.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Executive Chef": [
+    "Collaborated with team members to complete projects.",
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Real Estate Developer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Analyzed data to inform strategic decisions.",
+    "Designed and implemented system improvements."
+  ],
+  "Senior Consultant": [
+    "Communicated with clients to understand requirements.",
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Database Architect": [
+    "Analyzed data to inform strategic decisions.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Insurance Broker": [
+    "Analyzed data to inform strategic decisions.",
+    "Communicated with clients to understand requirements.",
+    "Designed and implemented system improvements."
+  ],
+  "Sociologist": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Monitored performance and suggested optimizations.",
+    "Conducted research and reported findings."
+  ],
+  "Accountant Manager": [
+    "Conducted research and reported findings.",
+    "Analyzed data to inform strategic decisions.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Mobile App Developer": [
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Enterprise Architect": [
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Game Developer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Cultural Resource Manager": [
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Behavioral Health Counselor": [
+    "Designed and implemented system improvements.",
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Business Operations Specialist": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Social Media Coordinator": [
+    "Provided support and training to new employees.",
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Mobile Developer": [
+    "Monitored performance and suggested optimizations.",
+    "Provided support and training to new employees.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Brand Ambassador": [
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings."
+  ],
+  "Security Consultant": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Collaborated with team members to complete projects.",
+    "Designed and implemented system improvements."
+  ],
+  "Visual Designer": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "SEO Consultant": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Teaching Assistant": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Provided support and training to new employees."
+  ],
+  "Web Content Writer": [
+    "Collaborated with team members to complete projects.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings."
+  ],
+  "Digital Advertising Specialist": [
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Field Service Technician": [
+    "Collaborated with team members to complete projects.",
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Legal Secretary": [
+    "Provided support and training to new employees.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Executive Recruiter": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Sales Engineer": [
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Event Coordinator": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Product Owner": [
+    "Monitored performance and suggested optimizations.",
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings."
+  ],
+  "Software Solutions Engineer": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Customer Insights Manager": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Digital Marketing Manager": [
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Application Support Analyst": [
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Cloud Engineer": [
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Client Relationship Manager": [
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Mobile Marketing Specialist": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Collaborated with team members to complete projects."
+  ],
+  "User Experience Researcher": [
+    "Collaborated with team members to complete projects.",
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Artificial Intelligence Engineer": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings."
+  ],
+  "Social Media Strategist": [
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements."
+  ],
+  "Electrical Technician": [
+    "Monitored performance and suggested optimizations.",
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Operations Administrator": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Operations Executive": [
+    "Analyzed data to inform strategic decisions.",
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Retail Operations Manager": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Network Architect": [
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Help Desk Specialist": [
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements."
+  ],
+  "Junior Web Developer": [
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Technical Support Specialist": [
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees."
+  ],
+  "User Interface Engineer": [
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Senior Software Engineer": [
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Business Operations Analyst": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Cloud Systems Administrator": [
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Organizational Development Manager": [
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Healthcare Consultant": [
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees."
+  ],
+  "Network Technician": [
+    "Collaborated with team members to complete projects.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Training Specialist": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Software Sales Representative": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "HR Coordinator": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Business Process Analyst": [
+    "Assisted in budgeting and cost analysis.",
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Construction Superintendent": [
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "IT Helpdesk Technician": [
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Provided support and training to new employees."
+  ],
+  "Strategy Consultant": [
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Cloud Solutions Developer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Branding Consultant": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Provided support and training to new employees.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Purchasing Agent": [
+    "Communicated with clients to understand requirements.",
+    "Monitored performance and suggested optimizations.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Digital Content Manager": [
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Event Marketing Manager": [
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements."
+  ],
+  "Customer Experience Manager": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Provided support and training to new employees."
+  ],
+  "Architectural Designer": [
+    "Provided support and training to new employees.",
+    "Monitored performance and suggested optimizations.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Mechanical Draftsman": [
+    "Monitored performance and suggested optimizations.",
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "B2B Marketing Manager": [
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Java Developer": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Sustainability Consultant": [
+    "Conducted research and reported findings.",
+    "Monitored performance and suggested optimizations.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Sales Operations Manager": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings."
+  ],
+  "Customer Success Executive": [
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Speech Pathologist": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Architectural Engineer": [
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Project Engineer": [
+    "Designed and implemented system improvements.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Web Development Lead": [
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Quality Assurance Manager": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Project Architect": [
+    "Designed and implemented system improvements.",
+    "Collaborated with team members to complete projects.",
+    "Provided support and training to new employees."
+  ],
+  "Consulting Engineer": [
+    "Provided support and training to new employees.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Senior UX Designer": [
+    "Conducted research and reported findings.",
+    "Assisted in budgeting and cost analysis.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Business Strategy Consultant": [
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings.",
+    "Managed daily tasks and ensured smooth operations."
+  ],
+  "Technical Sales Engineer": [
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings.",
+    "Collaborated with team members to complete projects."
+  ],
+  "Real Estate Consultant": [
+    "Provided support and training to new employees.",
+    "Designed and implemented system improvements.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "SEO Content Writer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Conducted research and reported findings.",
+    "Designed and implemented system improvements."
+  ],
+  "SEO Analyst": [
+    "Collaborated with team members to complete projects.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Provided support and training to new employees."
+  ],
+  "Public Relations Manager": [
+    "Provided support and training to new employees.",
+    "Communicated with clients to understand requirements.",
+    "Designed and implemented system improvements."
+  ],
+  "Corporate Communications Manager": [
+    "Provided support and training to new employees.",
+    "Collaborated with team members to complete projects.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Corporate Lawyer": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Business Growth Manager": [
+    "Assisted in budgeting and cost analysis.",
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements."
+  ],
+  "Digital Strategist": [
+    "Analyzed data to inform strategic decisions.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Application Developer": [
+    "Communicated with clients to understand requirements.",
+    "Designed and implemented system improvements.",
+    "Conducted research and reported findings."
+  ],
+  "Marketing Communications Manager": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Conducted research and reported findings."
+  ],
+  "Healthcare Support Worker": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Collaborated with team members to complete projects.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Recruiting Coordinator": [
+    "Provided support and training to new employees.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Designed and implemented system improvements."
+  ],
+  "Customer Care Specialist": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Maintained documentation and ensured compliance with standards.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Legal Counsel": [
+    "Communicated with clients to understand requirements.",
+    "Conducted research and reported findings.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Blockchain Developer": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Monitored performance and suggested optimizations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Machine Learning Engineer": [
+    "Assisted in budgeting and cost analysis.",
+    "Designed and implemented system improvements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "Mobile Application Tester": [
+    "Analyzed data to inform strategic decisions.",
+    "Designed and implemented system improvements.",
+    "Monitored performance and suggested optimizations."
+  ],
+  "Assistant Director": [
+    "Monitored performance and suggested optimizations.",
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees."
+  ],
+  "Risk Manager": [
+    "Communicated with clients to understand requirements.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Designed and implemented system improvements."
+  ],
+  "Community Outreach Coordinator": [
+    "Maintained documentation and ensured compliance with standards.",
+    "Communicated with clients to understand requirements.",
+    "Collaborated with team members to complete projects."
+  ],
+  "IT Support Engineer": [
+    "Assisted in budgeting and cost analysis.",
+    "Conducted research and reported findings.",
+    "Provided support and training to new employees."
+  ],
+  "Digital Marketing Analyst": [
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements.",
+    "Designed and implemented system improvements."
+  ],
+  "Senior Marketing Specialist": [
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Analyzed data to inform strategic decisions."
+  ],
+  "Data Engineer": [
+    "Analyzed data to inform strategic decisions.",
+    "Communicated with clients to understand requirements.",
+    "Maintained documentation and ensured compliance with standards."
+  ],
+  "AI Researcher": [
+    "Monitored performance and suggested optimizations.",
+    "Provided support and training to new employees.",
+    "Conducted research and reported findings."
+  ],
+  "Field Engineer": [
+    "Analyzed data to inform strategic decisions.",
+    "Communicated with clients to understand requirements.",
+    "Provided support and training to new employees."
+  ],
+  "Retail Assistant": [
+    "Assisted in budgeting and cost analysis.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Communicated with clients to understand requirements."
+  ],
+  "Database Support Analyst": [
+    "Designed and implemented system improvements.",
+    "Provided support and training to new employees.",
+    "Assisted in budgeting and cost analysis."
+  ],
+  "Quality Manager": [
+    "Collaborated with team members to complete projects.",
+    "Managed daily tasks and ensured smooth operations.",
+    "Provided support and training to new employees."
+  ]
+}
